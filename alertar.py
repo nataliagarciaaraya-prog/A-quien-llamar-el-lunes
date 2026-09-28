@@ -53,7 +53,7 @@ CONFIG = {
     "caso5_meses_cuenta_nueva_max": 3,
     "caso5_sesiones_panel_max": 5,        # sesiones_panel < esto
     "caso5_pct_conversaciones_min": 0.5,  # conversaciones < este % del umbral del plan
-    "caso3_umbral_caida_industria": 0.30,
+    "caso3_umbral_caida_industria": 0.60,
 }
 
 # Umbral de conversaciones "normal" segun el plan (caso 4 y base del caso 5)
